@@ -3,3 +3,6 @@ This is a simple example of how you can bring your SKlearn training script and t
 
 ## 2)Sagemaker Pipeline
 this shows you how to create and execute a sagemaker pipeline
+
+## 3) EMR
+the notebook that shows you how you can connect to EMR clusters and do ETL, ML from within SageMaker Studio
